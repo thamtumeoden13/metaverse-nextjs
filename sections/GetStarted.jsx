@@ -45,7 +45,6 @@ const GetStarted = () => (
         </div>
       </motion.div>
     </motion.div>
-    Get Started Section
   </section>
 );
 
