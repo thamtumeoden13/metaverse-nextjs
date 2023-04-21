@@ -1,6 +1,6 @@
-'use client'
+'use client';
 
-import styles from "../styles";
+import styles from '../styles';
 
 const NewFeatures = ({ imgUrl, title, subtitle }) => (
   <div

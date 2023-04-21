@@ -1,11 +1,11 @@
 'use client';
 
-import { useState } from "react";
-import { motion } from "framer-motion";
+import { useState } from 'react';
+import { motion } from 'framer-motion';
 
-import { ExploreCard, TitleText, TypingText } from "../components";
+import { ExploreCard, TitleText, TypingText } from '../components';
 
-import { staggerContainer } from "../utils/motion";
+import { staggerContainer } from '../utils/motion';
 import { exploreWorlds } from '../constants'
 import styles from '../styles'
 
